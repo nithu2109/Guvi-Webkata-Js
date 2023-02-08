@@ -1,0 +1,1 @@
+document.getElementById("alignToCenter").style.textAlign="center";

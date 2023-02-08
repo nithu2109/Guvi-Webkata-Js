@@ -1,0 +1,1 @@
+document.getElementById("changeMeToBlue").style.color="blue";

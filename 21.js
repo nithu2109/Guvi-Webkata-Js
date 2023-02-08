@@ -1,0 +1,1 @@
+document.getElementsByClassName("blue-rectangle")[0].style.backgroundColor="blue";
